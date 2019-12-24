@@ -11,24 +11,25 @@ Built from the recordings of 30 subjects performing 6 activities of daily living
 
 This project was completed using only the files below.  The raw signal data files were ignored.
 
-**features.txt:** IDs and Names of the 561 features.
+1. **features.txt:** IDs and Names of the 561 features.
 
-**activity_labels.txt:** IDs and Names for each of the 6 activities.
+2. **activity_labels.txt:** IDs and Names for each of the 6 activities.
 
-**X_train.txt:** 7352 observations with 561 variables representing each feature for 21 of the 30 volunteers.
+3. **X_train.txt:** 7352 observations with 561 variables representing each feature for 21 of the 30 volunteers.
 
-**subject_train.txt:** 7352 observations denoting the IDs of the volunteers related to each of the observations in X_train.txt.
+4. **subject_train.txt:** 7352 observations denoting the IDs of the volunteers related to each of the observations in X_train.txt.
 
-**y_train.txt:** 7352 observations denoting the IDs of the activities related to each of the observations in X_train.txt.
+5. **y_train.txt:** 7352 observations denoting the IDs of the activities related to each of the observations in X_train.txt.
 
-**X_test.txt:** 2947 observations with 561 variables representing each feature for 9 of the 30 volunteers.
+6. **X_test.txt:** 2947 observations with 561 variables representing each feature for 9 of the 30 volunteers.
 
-**subject_test.txt:** 2947 observations denoting the IDs of the volunteers related to each of the observations in X_test.txt.
+7. **subject_test.txt:** 2947 observations denoting the IDs of the volunteers related to each of the observations in X_test.txt.
 
-**y_test.txt:** 2947 observations denoting the IDs of the activities related to each of the observations in X_test.txt.
+8. **y_test.txt:** 2947 observations denoting the IDs of the activities related to each of the observations in X_test.txt.
 
 
 ## Transformations and Work Performed
+The purpose of this project is to  prepare a tidy data that can be used for later analysis.  The following steps were performed:
 1. Read in the training and test data sets.  Merge to create one data set.
 2. 
 3. 
