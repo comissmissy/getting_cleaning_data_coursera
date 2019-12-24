@@ -27,8 +27,8 @@ This project was completed using only the files below.  The raw signal data file
 
 ## Transformations and Work Performed
 The following steps were performed to prepare a tidy data set that can be used for later analysis:
-1. Read in the training and test data sets.  Merge to create one data set.
-2. Read in and index the activity names data set.  Apply descriptive activity names to name the activities in the data set.
-3. Read in the features data set.  Appropriately label the data set with descriptive variable names from the features data set.
+1. Read in training and test data sets.  Merge to create one data set.
+2. Read in and index activity names data set.  Apply descriptive activity names to name the activities in the data set.
+3. Read in features data set.  Appropriately label the data set with descriptive variable names from the features data set.
 4. Extract only the measurements on the mean and standard deviation for each measurement.
 5. Create an independent tidy data set with the average of each variable for each activity and each subject.  Write the tidy data set output to a delimited TXT file.
