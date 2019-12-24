@@ -29,7 +29,7 @@ This project was completed using only the files below.  The raw signal data file
 
 
 ## Transformations and Work Performed
-The purpose of this project is to  prepare a tidy data that can be used for later analysis.  The following steps were performed:
+The following steps were performed to prepare a tidy data set that can be used for later analysis:
 1. Read in the training and test data sets.  Merge to create one data set.
 2. 
 3. 
