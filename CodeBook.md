@@ -15,15 +15,15 @@ This project was completed using only the files below.  The raw signal data file
 
 2. **activity_labels.txt:** IDs and Names for each of the 6 activities.
 
-3. **X_train.txt:** 7352 observations with 561 variables representing each feature for 21 of the 30 volunteers.
+3. **X_train.txt:** 7352 observations with 561 variables representing each feature for 21 of the 30 subjects.
 
-4. **subject_train.txt:** 7352 observations denoting the IDs of the volunteers related to each of the observations in X_train.txt.
+4. **subject_train.txt:** 7352 observations denoting the IDs of the subjects related to each of the observations in X_train.txt.
 
 5. **y_train.txt:** 7352 observations denoting the IDs of the activities related to each of the observations in X_train.txt.
 
-6. **X_test.txt:** 2947 observations with 561 variables representing each feature for 9 of the 30 volunteers.
+6. **X_test.txt:** 2947 observations with 561 variables representing each feature for 9 of the 30 subjects.
 
-7. **subject_test.txt:** 2947 observations denoting the IDs of the volunteers related to each of the observations in X_test.txt.
+7. **subject_test.txt:** 2947 observations denoting the IDs of the subjects related to each of the observations in X_test.txt.
 
 8. **y_test.txt:** 2947 observations denoting the IDs of the activities related to each of the observations in X_test.txt.
 
