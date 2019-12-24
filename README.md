@@ -4,6 +4,6 @@ The course project for Getting and Cleaning Data is to read in the [Human Activi
 This repo contains the following files:
 1. run_analysis.R - R script to work with and clean the data
 2. CodeBook.md - document that describes the variables, data, and transformations performed
-3. tidy_data - tidy output data set as described below
+3. tidy_data.txt - tidy output data set as described below
 
 Additional information may be found in the CodeBook.md.
