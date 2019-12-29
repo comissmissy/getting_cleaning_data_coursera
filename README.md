@@ -7,3 +7,5 @@ This repo contains the following files:
 3. tidy_data.txt - tidy output data set as described below
 
 Additional information may be found in the CodeBook.md.
+
+Note: The data must be downloaded and the working directory set to the new folder prior to running the script.
