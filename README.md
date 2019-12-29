@@ -8,4 +8,4 @@ This repo contains the following files:
 
 Additional information may be found in the CodeBook.md.
 
-Note: The data must be downloaded and the working directory set to the new folder prior to running the script.
+Note: The data must be downloaded and the working directory set to the new folder prior to running the R script.
